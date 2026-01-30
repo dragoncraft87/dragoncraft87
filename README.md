@@ -21,12 +21,20 @@ I design systems, validate ideas, and turn them into something that actually run
   - ESP32-based systems, displays, sensors, battery operation
 - 🧱 **CAD & fabrication**
   - enclosure design, 3D printing, mounting solutions
-- 🖨️ MakerWorld: https://makerworld.com/de/@user_617096205
-  - Enclosures, mounts, and custom parts for my projects
 - 🔌 **Hands-on work**
   - wiring, soldering, assembly
 - 🎨 **Iterative UI/UX**
   - simple HTML mockups → refinement → functional interfaces
+
+## 🔗 Selected Work & Demos
+
+- 🖨️ **MakerWorld**  
+  https://makerworld.com/de/@user_617096205  
+  Enclosures, mounts, and custom parts for my projects
+
+- 🎥 **One-off build video (DE)**  
+  Custom wooden play gym with self-designed 3D-printed parts  
+  https://www.youtube.com/@CRMabrouk2022
 
 ---
 
