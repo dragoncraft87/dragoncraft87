@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm dragoncraft87
 
-<!--
-**dragoncraft87/dragoncraft87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a maker and system builder focused on **real, working projects** that combine  
+**hardware, firmware, and web-based control interfaces**.
 
-Here are some ideas to get you started:
+I don't chase green GitHub squares.  
+I design systems, validate ideas, and turn them into something that actually runs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I do
+
+- 🧠 **System & feature design**
+  - defining functionality, workflows, and hardware interaction
+- 🔍 **Debugging & problem analysis**
+  - build errors, logic flaws, version conflicts
+- 🤖 **AI-assisted development**
+  - using multiple AI tools as accelerators and reviewers  
+  - validating, testing, and refining results myself
+- 🧩 **Hardware & embedded projects**
+  - ESP32-based systems, displays, sensors, battery operation
+- 🧱 **CAD & fabrication**
+  - enclosure design, 3D printing, mounting solutions
+- 🔌 **Hands-on work**
+  - wiring, soldering, assembly
+- 🎨 **Iterative UI/UX**
+  - simple HTML mockups → refinement → functional interfaces
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 NeoOrb
+Programmable ESP32-S3 based macropad with display, menu navigation, RFID access and battery operation.
+
+- custom firmware
+- web-based configuration (PWA)
+- hardware + enclosure design
+
+### 🔹 PC-Monitor
+PC hardware monitoring solution designed to feed external dashboards and embedded displays.
+
+### 🔹 Dashboard (private)
+Local network dashboard for home and lab environments
+(security-focused, offline-first, non-cloud).
+
+---
+
+## 🧠 How I work
+
+I focus on **clarity over volume**:
+- I know what I want to build
+- I can describe problems precisely
+- I research and validate solutions
+- I use AI as a tool, not as a replacement for thinking
+
+If something runs reliably and is maintainable, it's a success.
+
+---
+
+## 🛠 Tech & Tools
+
+- ESP32 / Embedded systems
+- Web (HTML, CSS, JS, PWA)
+- Hardware monitoring & data pipelines
+- CAD & 3D printing
+- AI-assisted development workflows
+
+---
+
+## 📫 Notes
+
+Most of my work lives in private repositories or on my workbench.  
+Public repositories represent **polished or shareable parts** of larger projects.
